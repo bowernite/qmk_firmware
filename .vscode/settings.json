@@ -45,5 +45,6 @@
         "titleBar.inactiveBackground": "#bc02fe99",
         "titleBar.inactiveForeground": "#e7e7e799"
     },
-    "peacock.color": "#bc02fe"
+    "peacock.color": "#bc02fe",
+    "editor.wordWrapColumn": 125
 }
